@@ -49,3 +49,12 @@ D:\Ruanmou\Advanced13Encrypt\20191119高级班13期第10次课Encrypt\20191119�
 D:\Ruanmou\Advanced13Encrypt\20191119高级班13期第10次课Encrypt\20191119高级班13期第10次课Encrypt\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.csproj.CopyComplete
 D:\Ruanmou\Advanced13Encrypt\20191119高级班13期第10次课Encrypt\20191119高级班13期第10次课Encrypt\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.exe
 D:\Ruanmou\Advanced13Encrypt\20191119高级班13期第10次课Encrypt\20191119高级班13期第10次课Encrypt\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.pdb
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\bin\Debug\MyEncrypt.exe.config
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\bin\Debug\MyEncrypt.exe
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\bin\Debug\MyEncrypt.pdb
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\bin\Debug\BouncyCastle.Crypto.dll
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.csprojAssemblyReference.cache
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.csproj.CoreCompileInputs.cache
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.csproj.CopyComplete
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.exe
+F:\GIt\Hello2\MyEncrypt\MyEncrypt\obj\Debug\MyEncrypt.pdb
