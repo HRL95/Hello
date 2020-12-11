@@ -60,8 +60,8 @@ namespace MyEncrypt
 
                 #region MD5
                 {
-                    Console.WriteLine(MD5Encrypt.Encrypt("2"));
-                    Console.WriteLine(MD5Encrypt.Encrypt("2"));
+                    Console.WriteLine(MD5Encrypt.Encrypt("3"));
+                    Console.WriteLine(MD5Encrypt.Encrypt("3"));
                     Console.WriteLine(MD5Encrypt.Encrypt("123456小李"));
                     Console.WriteLine(MD5Encrypt.Encrypt("113456小李"));
                     Console.WriteLine(MD5Encrypt.Encrypt("113456小李113456小李113456小李113456小李113456小李113456小李113456小李"));
